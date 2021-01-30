@@ -13,5 +13,6 @@ Celem projektu jest wykorzystanie stworzenie strony www własnego CV za użyciem
 - wykorzystasz flexbox do tworzenia układu strony
 - przystosujesz stronę pod urządzenia mobilne (RWD)
 
-### Wymagania
-Do wykonania zadań konieczna jest podstawowa znajomość HTML i CSS!
+### Alt image
+
+Zdjęcie autorstwa Dominika Roseclay z Pexels
