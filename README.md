@@ -1,4 +1,4 @@
-# CV base
+# My CV
 
 Podstawa projektu do pobrania. Pełen tutorial z opisem na blogu Fly Nerd: CV w HTML / CSS
 
