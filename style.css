@@ -43,11 +43,46 @@ border-radius: 100px;
 h1 {
   margin: 1em 0;
   color: #212121;
-  text-transform: capitalize;
+  text-transform: uppercase;
+}
+
+h3 {
+  margin: 1em 0;
+  color: #212121;
+  text-transform: uppercase;
 }
 
 main {
   max-width: 1140px;
+}
+
+.skills {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.skills .column {
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+ul {
+  margin: 0;
+}
+ul.list-dashed {
+  list-style-type: none;
+  padding: 0;
+}
+ul.list-dashed > li {
+ padding-left: 1.5em; 
+}
+ul.list-dashed > li:before {
+  content: "►";
+  padding-right: 0.5em;
+  color: #e9d6d6;
 }
 
 .course {
