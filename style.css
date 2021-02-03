@@ -92,10 +92,12 @@ ul.list-dashed > li:before {
 }
 
 .course .descrition {
+  text-transform: initial;
 }
 
 .school span {
-  color: #A7B8BF;
+  color: #3C5850;
+  font-style: italic;
 }
 
 footer {
