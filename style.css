@@ -113,6 +113,19 @@ ul.list > li:before {
   font-style: italic;
 }
 
+a {
+color: #ffffff;
+text-decoration: none;
+}
+
+a:hover{
+  opacity: 0.5;
+  text-decoration: none;
+}
+
 footer {
  padding: 1em;
+ background-color: #3C5850;
+ color: #ffffff;
+ text-align: right;
 }
