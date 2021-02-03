@@ -76,16 +76,29 @@ ul.list-dashed {
   list-style-type: none;
   padding: 0;
 }
+
+ul.list {
+  list-style-type: none;
+  padding: 0;
+}
+
 ul.list-dashed > li {
  padding-left: 1.5em; 
 }
+
 ul.list-dashed > li:before {
   content: "►";
   padding-right: 0.5em;
   color: #e9d6d6;
 }
 
-.course {
+ul.list > li:before {
+  content: "✔";
+  padding-right: 0.5em;
+  color: #e9d6d6;
+}
+
+.course { 
 }
 
 .course .title {
