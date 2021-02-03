@@ -1,17 +1,13 @@
 # My CV
 
-Podstawa projektu do pobrania. Pełen tutorial z opisem na blogu Fly Nerd: CV w HTML / CSS
+CV w HTML / CSS
 
-### Zakres
-
-Celem projektu jest wykorzystanie stworzenie strony www własnego CV za użyciem HTML i CSS.
-
-### Z tym tutorialem:
-- wykorzystasz znaczniki HTML5
-- ostylujesz stronę za pomocą CSS
-- stworzysz prosty, czytelny i estetyczny layout
-- wykorzystasz flexbox do tworzenia układu strony
-- przystosujesz stronę pod urządzenia mobilne (RWD)
+### W tym projekcie:
+- wykorzystano znaczniki HTML5
+- zastosowano stylowanie strony za pomocą CSS
+- stworzono prosty, czytelny i estetyczny layout
+- wykorzystano flexbox do tworzenia układu strony
+- przystosowano stronę pod urządzenia mobilne (RWD)
 
 ### Alt image
 
